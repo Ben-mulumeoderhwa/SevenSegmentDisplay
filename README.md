@@ -4,5 +4,5 @@ This repository allows the display of time in the console using the 7 segment sy
 ***
 # Display
 ***
- ![alt text] (https://github.com/Ben-mulumeoderhwa/SevenSegmentDisplay/blob/main/1695016703916.png)
+ <img src="https://github.com/Ben-mulumeoderhwa/SevenSegmentDisplay/blob/main/1695016703916.png"/>
 ***
